@@ -17,6 +17,7 @@ There will be one integer per line.
 There will be ten lines.
 The program will read these ten integers from the text file in part a into an array of integers.
 The program will print out the sum of these integers.
+
 Programming Task 3: 10 points
 Implement sort.c with the following specifications:
 
